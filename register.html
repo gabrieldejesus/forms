@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,user-scalable=0"/>
+    <link href="assets/css/normalize.css" type="text/css" rel="stylesheet"/> <!--Normalize css-->
+    <link href="assets/css/template-register.css" type="text/css" rel="stylesheet"/> <!--Meu template-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300&display=swap" rel="stylesheet"> <!--Fonte-->
+    <title>Criar Conta</title> <!--Title-->
+</head>
+<body>
+<!--======================================================SECTION GERAL======================================================-->
+    <section id="geral">
+        <div class="container">
+            <div class="main">    
+                <div class="register-thumbnail"><img src="assets/images/illustration.png"></div>
+                <div class="register-form column">
+                    <div class="register-title">Criar Conta</div>
+                    <div class="register-text">Preencha o formulário abaixo para criar uma nova conta.</div>
+                    <nav>
+                        <ul>
+                            <li class="active"><a href="#">Aluno</a></li>
+                            <li><a href="#">Colaborador</a></li>
+                            <li><a href="#">Ajuda</a></li>
+                        </ul>
+                    </nav>
+                    <div class="form">
+                        <form method="POST">
+                            <input type="text" required placeholder="Nome">
+                            <input type="text" required placeholder="Sobrenome">
+                            <input type="email" required placeholder="Email">
+                            <input type="password" required placeholder="Senha">
+
+                            <div class="form-options">
+                                <div><input type="checkbox" id="checkbox"><label for="checkbox">Aceito os <a href="#" target="_blank">termos</a> e <a href="#"  target="_blank">condições</a>.</label></div>
+                            </div>
+                            
+                            <div class="buttons">
+                                <a href="login.html">Entrar</a>
+                                <button>Criar Conta</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
