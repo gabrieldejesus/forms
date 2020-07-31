@@ -10,42 +10,44 @@
 </head>
 <body>
 <!--======================================================SECTION GERAL======================================================-->
-    <section id="geral">
-        <div class="container">
-            <div class="main">    
-                <div class="login-thumbnail"><img src="assets/images/illustration.png"></div>
-                <div class="login-form column">
-                    <div class="login-title">Conecte-se</div>
-                    <div class="login-text">Bem-vindo de volta, faça login na sua conta.</div>
-                    <nav>
-                        <ul>
-                            <li class="active"><a href="#">Aluno</a></li>
-                            <li><a href="#">Colaborador</a></li>
-                            <li><a href="#">Ajuda</a></li>
-                        </ul>
-                    </nav>
-                    <div class="form">
-                        <form method="POST">
-                            <label for="text">nome.sobrenome</label>
-                            <input type="text" id="text" required>
-                            
-                            <label for="password">senha</label>
-                            <input type="password" id="password" required>
+<section id="geral">
+    <div class="container">
+        <div class="main">    
+            <div class="login-thumbnail"><img src="assets/images/illustration.png"></div>
+            <div class="login-form column">
+                <div class="login-title">Conecte-se</div>
+                <div class="login-text">Bem-vindo de volta, faça login na sua conta.</div>
+                <nav>
+                    <ul>
+                        <li class="active"><a href="#">Aluno</a></li>
+                        <li><a href="#">Colaborador</a></li>
+                        <li><a href="#">Ajuda</a></li>
+                    </ul>
+                </nav>
+                <div class="form">
+                    <form method="POST" onsubmit="return checkLogin()">
+                        <label for="text">nome.sobrenome</label>
+                        <input type="text" id="text" placeholder="Digite aqui..." required> 
+                        
+                        <label for="password">senha</label>
+                        <input type="password" id="password" placeholder="********" required>
+                        <div class="info"></div>
 
-                            <div class="form-options">
-                                <div><input type="checkbox" id="checkbox"><label for="checkbox">Lembrar senha</label></div>
-                                <div><a href="forgot-password.html">Esqueceu a senha ?</a></div>
-                            </div>
-                            
-                            <div class="buttons">
-                                <a href="register.html">Cadastre-se</a>
-                                <button>Entrar</button>
-                            </div>
-                        </form>
-                    </div>
+                        <div class="form-options">
+                            <div><input type="checkbox" id="checkbox"><label for="checkbox">Lembrar senha</label></div>
+                            <div><a href="forgot-password.html">Esqueceu a senha ?</a></div>
+                        </div>
+                        
+                        <div class="buttons">
+                            <a href="index.html">Cadastre-se</a>
+                            <button>Entrar</button>
+                        </div>
+                    </form>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 </body>
+<script src="assets/js/scripts.js"></script>
 </html>

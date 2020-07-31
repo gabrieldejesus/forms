@@ -19,6 +19,10 @@ html {
 /**
  * Remove the margin in all browsers.
  */
+* {
+  outline:none;
+  transition:all ease 0.3s;
+}
 
 body {
   margin: 0;
