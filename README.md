@@ -2,7 +2,7 @@
 
 > Project created in order to exercise my knowledge in HTML5 and CSS3.
 
-![](assets/web-preview.gif)
+![](assets/images/web-preview.gif)
 
 ## Deployment in
 https://devgabrieldejesus.github.io/forms
