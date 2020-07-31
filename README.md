@@ -9,8 +9,10 @@ https://devgabrieldejesus.github.io/forms
 
 ## Release history
 
-* 0.0.2
+* 0.0.3
     * Finished project and studying the possibility of adding `new resources`
+* 0.0.2
+    * verification of `password`
 * 0.0.1
     * Work in `progress`
 
