@@ -13,7 +13,7 @@ https://devgabrieldejesus.github.io/forms
 * 0.0.3
     * Finished project and studying the possibility of adding `new resources`
 * 0.0.2
-    * verification of `password`
+    * verification of `password` with javascript
 * 0.0.1
     * Work in `progress`
 
