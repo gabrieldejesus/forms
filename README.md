@@ -1,7 +1,8 @@
 #### 📒   _Always learn_
 
-> Project created in order to exercise my knowledge in HTML5 and CSS3.
+Project created in order to exercise my knowledge in HTML5 and CSS3.
 
+`Web preview`
 ![](assets/images/web-preview.gif)
 
 ## Deployment in
@@ -31,4 +32,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
