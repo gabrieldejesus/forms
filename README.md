@@ -1,113 +1,77 @@
-_English_
-
 # Forms
 
 🚪 A beautiful form for login, registration and a page forgot my password.
 
-`Web preview`
 ![](assets/images/web-preview.gif)
 
-## 🕹 Deployment in
-https://devgabrieldejesus.github.io/forms
+<p align="center">
+  <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=4A90E2&labelColor=222222" />
+     
+   <img alt="Stars" src="https://img.shields.io/github/stars/gabrieldejesus/forms?color=4A90E2&label=STARS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-## 📈 Example usage
+   <img alt="Forks" src="https://img.shields.io/github/forks/gabrieldejesus/forms?color=4A90E2&label=FORKS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-You can log in, register or even go to the page forgot my password. Upon registration there is a simple verification that only lets you sign up if your password is at least 8 characters long
+   <img alt="Issues" src="https://img.shields.io/github/issues/gabrieldejesus/forms?color=4A90E2&label=ISSUES&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
 
-## 💻 Configuration for Development
+   <img alt="GitHub license" src="https://img.shields.io/github/license/gabrieldejesus/forms?color=4A90E2&label=LICENSE&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+  <a href="https://github.com/gabrieldejesus">
+    <img alt="Follow gabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=gabrieldejesus&style=for-the-badge&color=4A90E2&labelColor=222222" />
+  </a>
+</p>
+
+## 🕹 Test here
+
+https://gabrieldejesus.github.io/forms
+
+## 📈 Example of use
+
+In the menu on the right you can select the password length, include lowercase letters, include numbers or include symbols after that just click on generate password.
+
+## 🛠 Getting started
 
 Windows:
 
 You can clone the repository through CMD (Command Prompt) just by typing:
 
 ```sh
-git clone https://github.com/devgabrieldejesus/forms
+git clone https://github.com/gabrieldejesus/forms
 ```
 
 or download the zip from the green button at the beginning of the repository
 
-![](assets/images/clone.png)
+<img src="https://i.ibb.co/3mLnKMH/clone.png" alt="Download zip" border="0">
 
-![](assets/images/clone-zip.png)
+<img src="https://i.ibb.co/3M5CXKm/clone-zip.png" alt="Download zip" border="0">
+
+## 💻 Configuration for development
+
+To run the project just run the file: `index.html`, type a text in the text area and click on read.
 
 ## 🗃 Release history
 
-* 0.1.0
-    * Project finalized and studying the possibility of adding new resources
-    * The first suitable launch
-* 0.0.1
-    * Work in progress
+- 0.1.0
+  - Project finalized and studying the possibility of adding new resources
+  - The first suitable lauch
+- 0.0.1
+  - Work in progress
 
 ## 📝 Meta
 
-Gabriel de Jesus – [My portfolio](https://www.gabrieldesenvolvedor.com/) – oi@gabrieldesenvolvedor.com
+Gabriel de Jesus – [My portfolio](https://gabrieldesenvolvedor.com) – devgabrieldejesus@gmail.com
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-[https://github.com/devgabrieldejesus/forms](https://github.com/devgabrieldejesus/)
+[https://github.com/gabrieldejesus/forms](https://github.com/gabrieldejesus)
 
-## 🚀 Contributing
+## 🚀 Contribution
 
-1. Fork it (<https://github.com/devgabrieldejesus/forms/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+1. Make the _fork_ of the project (<https://github.com/gabrieldejesus/forms/fork>)
+2. Create a _branch_ for your modification (`git checkout -b my-new-resource`)
+3. Do _commit_ (`git commit -am 'Adding a new resource ...'`)
+4. _Push_ (`git push origin my-new-feature`)
+5. Create a new _Pull Request_
+
+**After your pull request is merged**, you can safely delete your branch.
 
 ---
-
-_Português_
-
-# Formulários
-
-🚪 Um lindo formulário para login, cadastro e uma página esqueci minha senha.
-
-`Visualização da Web`
-![](assets/images/web-preview.gif)
-
-## 🕹 Teste aqui
-https://devgabrieldejesus.github.io/forms
-
-## 📈 Exemplo de uso
-
-Você pode logar, se cadastrar ou até mesmo ir para a página esqueci minha senha. No momento do registo existe uma verificação simples que só permite se inscrever se a sua palavra-passe tiver pelo menos 8 caracteres
-
-## 💻 Configuração para Desenvolvimento
-
-Windows:
-
-Você pode clonar o repositório por meio do CMD (Prompt de Comando) apenas digitando:
-
-```sh
-git clone https://github.com/devgabrieldejesus/forms
-```
-
-ou baixe o zip do botão verde no início do repositório
-
-![](assets/images/clone.png)
-
-![](assets/images/clone-zip.png)
-
-## 🗃 Histórico de lançamento
-
-* 0.1.0
-    * Projeto finalizado e estudando a possibilidade de agregar novos recursos
-    * O primeiro lançamento adequado
-* 0.0.1
-    * Trabalho em progresso
-
-## 📝 Meta
-
-Gabriel de Jesus - [Meu portfólio](https://www.gabrieldesenvolvedor.com/) - oi@gabrieldesenvolvedor.com
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
-[https://github.com/devgabrieldejesus/forms](https://github.com/devgabrieldejesus/)
-
-## 🚀 Contribuição
-
-1. Fork it (<https://github.com/devgabrieldejesus/forms/fork>)
-2. Crie seu branch de recurso (`git checkout -b feature / fooBar`)
-3. Faça commit de suas alterações (`git commit -am 'Add some fooBar'`)
-4. Empurre para o branch (`git push origin feature / fooBar`)
-5. Crie uma nova solicitação pull
